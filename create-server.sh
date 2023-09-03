@@ -3,7 +3,7 @@
 NAMES=$@
 INSTANCE_TYPE=""
 IMAGE_ID=ami-03265a0778a880afb
-SECURITY_GROUP_ID=sg-011b98c08b45f2c5d 
+SECURITY_GROUP_ID=sg-011b98c08b45f2c5d
 DOMAIN_NAME=krishnadevops.online
 HOSTED_ZONE_ID=Z05495711NZZYMAJC18L3
 # if mysql or mongodb instance_type should be t3.medium, for all others it is t2.micro
